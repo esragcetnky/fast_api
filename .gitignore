@@ -6,3 +6,5 @@ environment
 chromadb_vectordb
 chromdb_rag_example
 models/
+**/__pycache__/
+__pycache__/
